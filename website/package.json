@@ -1,0 +1,8 @@
+{
+  "name": "moveease-sg",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python -m http.server 3000 --bind 127.0.0.1"
+  }
+}
